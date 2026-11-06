@@ -1,0 +1,21 @@
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Build artifacts
+target/
+build/
+bin/
+*.class
+
+# Maven
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
